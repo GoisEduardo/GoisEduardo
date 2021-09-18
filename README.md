@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoisEduardo
-- 👀 I’m interested in  ser programador  Fullstack
+- 👀 I’m interested  em ser  programador  FullStack
 -  🌱 I’m currently learning  HTML5, CSS3
 - 💞️ I’m looking to collaborate  na comunidade assim que possível
 - 📫 How to reach me  https://www.linkedin.com/in/eduardo-gois/
